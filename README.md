@@ -1,5 +1,5 @@
 # 💫 Hey there:
-🏫 I'm Software Engineering student at [AASTU](http://www.aastu.edu.et)<br>🔭 I’m currently working on MERN Stack development<br>🌱 I’m currently learning Flutter<br>⚡ I live in Addis
+🏫 I'm Software Engineering student at [AASTU](http://www.aastu.edu.et)<br>🔭 I’m currently working on MERN Stack development<br>🌱 I’m currently learning Flutter<br>🌍 I live in Addis
 
 
 ## 🌐 Socials:
