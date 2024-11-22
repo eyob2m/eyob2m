@@ -1,5 +1,5 @@
 # 💫 Hey there:
-🏫 I'm Software Engineering student at AASTU<br>🔭 I’m MERN Stack developer<br>🌱 I’m currently working on InterTechHub projects<br>⚡ I live in Addis
+🏫 I'm Software Engineering student at [AASTU](http://www.aastu.edu.et/)<br>🔭 I’m MERN Stack developer<br>🌱 I’m currently working on [InterTech Hub](https://www.linkedin.com/company/intertechub) projects<br>⚡ I live in Addis
 
 
 ## 🌐 Socials:
