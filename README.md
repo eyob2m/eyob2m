@@ -1,5 +1,5 @@
 # 💫 Hey there:
-🏫 I'm Software Engineering student at [AASTU](http://www.aastu.edu.et/)<br>🔭 I’m MERN Stack developer<br>🌱 I’m currently working on [ICog Labs](https://www.linkedin.com/company/icog-labs) projects<br>⚡ I live in Addis
+🏫 I'm Software Engineering student at [AASTU](http://www.aastu.edu.et/)<br>🔭 I’m MERN Stack developer<br>🌱 I’m currently AI intern at [ICog Labs](https://www.linkedin.com/company/icog-labs) projects<br>⚡ I live in Addis
 
 
 ## 🌐 Socials:
